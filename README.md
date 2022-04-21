@@ -1,6 +1,6 @@
 ### Hi there 👋
-👨‍💻 I’m currently learning Web Development And Asp.Net
-📫 How to reach me: https://www.linkedin.com/in/rahul-neupane-739560202/
+- 👨‍💻 I’m currently learning Web Development And Asp.Net
+- 📫 How to reach me: nrahul503@gmail.com
 <!--
 **RahulNeupane/RahulNeupane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
