@@ -1,5 +1,5 @@
 - Hi, I'm Rahul  👋
-- 👨‍💻 I’m currently learning Web Development, Asp.Net and Ethical Hacking
+- 👨‍💻 I’m currently learning Web Development and Asp.Net 
 - 📫 How to reach me: nrahul503@gmail.com
 - ⚡ Fun fact: I'm solving the bug i created
 <!--
